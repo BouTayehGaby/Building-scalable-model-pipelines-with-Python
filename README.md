@@ -1,6 +1,6 @@
 # Building-scalable-model-pipelines-with-Python
 
-**This repositry covers the following:**
+**This repository covers the following:**
 
 1. Models as web endpoints
 2. Models as Serverless Functions
