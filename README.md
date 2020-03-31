@@ -12,6 +12,6 @@
 
 
 This repositry is created for learning purposes. 
-For readers who are intersted in learning how to create scalable production piplines please refer to the following book:
+For readers who are intersted in learning how to create scalable production pipelines please refer to the following book:
 
 **Data Science in Production, by Ben G. Weber**
